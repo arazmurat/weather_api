@@ -1,0 +1,24 @@
+{
+  "name": "weather_api",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arazmurat/weather_api.git"
+  },
+  "keywords": [],
+  "author": "Araz <arazmirat@icloud.com> (http://arazmurat.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arazmurat/weather_api/issues"
+  },
+  "homepage": "https://github.com/arazmurat/weather_api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
